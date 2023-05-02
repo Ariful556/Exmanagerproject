@@ -81,8 +81,9 @@
 
 		<label for="amount">Amount:</label>
 		<input type="number" step="0.01" id="amount" name="amount" required>
-
 		<button type="submit">Submit</button>
 	</form>
+	<a href="view.jsp">view all</a>
+    <a href="index.jsp">Add One</a>
 </body>
 </html>

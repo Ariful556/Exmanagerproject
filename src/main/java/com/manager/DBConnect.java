@@ -24,5 +24,9 @@ public class DBConnect {
             }
         }
     }
+    public  void saveExpense(String name){
+
+    }
+
 
 }
